@@ -1,0 +1,21 @@
+Sitemap: https://brookline-robotics-initiative.weebly.com/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: dotbot
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /coming-soon.html
+Disallow: /coming-soon1.html
+Disallow: /2021---2022-season-info-coming-soon.html
+Disallow: /2nd-4th.html
+Disallow: /5th---8th.html
+Disallow: /2021---2022-season-info-coming-soon1.html
+Disallow: /high-school.html
+Disallow: /2021---2022-season-info-coming-soon2.html
+Disallow: /learning-center.html
+Disallow: /meet-the-team.html

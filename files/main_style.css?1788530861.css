@@ -288,3 +288,8 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 /* Responsive YouTube Embed Styles */
 .wsite-youtube-container { position: relative; padding-bottom: 56.25% !important; padding-top: 0 !important; height: 0 !important; overflow: hidden; }
 .wsite-youtube-container iframe { position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; border: 0 !important; }
+
+/* Responsive Video Embed Styles */
+.wsite-video-container { position: relative; padding-bottom: 56.25% !important; padding-top: 0 !important; height: 0 !important; overflow: hidden; border-radius: 4px; }
+.wsite-video-container video, .wsite-video-container iframe { position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; border: 0 !important; object-fit: cover; }
+

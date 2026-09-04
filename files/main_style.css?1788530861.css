@@ -284,3 +284,7 @@ div.paragraph ul, div.paragraph ol { padding-left: 3em !important; margin: 5px 0
 div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
 div.paragraph ul, div.paragraph ul li { list-style: disc outside !important; }
 div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; }
+
+/* Responsive YouTube Embed Styles */
+.wsite-youtube-container { position: relative; padding-bottom: 56.25% !important; padding-top: 0 !important; height: 0 !important; overflow: hidden; }
+.wsite-youtube-container iframe { position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; border: 0 !important; }
